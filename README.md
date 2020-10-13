@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It is a reproduction case for an `Uncaught TypeError`. Reproduction steps are stated in the page. 
+
 ## Available Scripts
 
 In the project directory, you can run:
